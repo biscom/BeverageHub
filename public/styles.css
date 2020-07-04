@@ -1,0 +1,27 @@
+body > nav{
+    background-color: #38A1F3;
+}
+
+body > nav > div > a > b{
+    color: white;
+}
+
+#navbarText > span{
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .nav-link {
+    color: #E1E8ED !important;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #FFFFFF !important;
+}
+
+button.btn.btn-primary.btn-block{
+    background-color: #38A1F3;
+}
+
+button.btn.btn-danger.btn-block{
+    background-color: #657786;
+}
